@@ -48,3 +48,8 @@ body {
 
   background-image: url(/images/BG-1x.png);
 }
+
+.menu {
+  list-style: none;
+  
+}
